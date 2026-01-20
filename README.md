@@ -10,7 +10,7 @@
 - community (for community_louvain)
 - scikit-learn
 
-## Directory Structure
+#-------- Directory Structure --------#
 
 -- Figures folder: contains all the images presented in the paper.
 
