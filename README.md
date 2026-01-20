@@ -1,4 +1,4 @@
-# Counterfactual Explanations in Community Detection
+# Algorithmic Recourse on Networks: From Explanations to Interventions
 
 ## Requirements
 
