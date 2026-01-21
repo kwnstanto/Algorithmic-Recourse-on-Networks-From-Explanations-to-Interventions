@@ -10,6 +10,8 @@
 - community (for community_louvain)
 - scikit-learn
 
+#-------- For the Anonymous Repository, download the whole repository to find all the files contained in the folders --------#
+
 #-------- Directory Structure --------#
 
 -- Figures folder: contains all the images presented in the paper.
